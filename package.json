@@ -3,9 +3,9 @@
   "displayName": "Clean Up React",
   "description": "",
   "publisher": "khechoyan",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.84.2"
   },
   "author": {
     "name": "Khechoyan"
@@ -13,9 +13,10 @@
   "categories": [
     "Other"
   ],
+  "icon": "logo.png",
   "galleryBanner": {
-    "color": "#00003D",
-    "theme": "dark"
+    "color": "#FDFFFC",
+    "theme": "light"
   },
   "activationEvents": [],
   "main": "src\\extension.js",
@@ -40,7 +41,7 @@
     "pretest": "npm run lint"
   },
   "devDependencies": {
-    "@types/vscode": "^1.92.0",
+    "@types/vscode": "^1.84.2",
     "@types/mocha": "^10.0.7",
     "@types/node": "20.x",
     "eslint": "^8.57.0",

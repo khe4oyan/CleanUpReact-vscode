@@ -1,32 +1,15 @@
-# clean-up-react README
+# Clean Up React.js
 
-
+  Clean-Up React is a VS Code extension that automatically removes unnecessary files created when initializing a React project and cleans up the remaining files from unnecessary information. This allows you to start working on a project with a more organized structure.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+Removes unnecessary files from the public and src folders, such as favicon.ico, logo192.png, App.test.js, and others.
+Cleans up remaining files by removing extraneous information, simplifying the project structure.
+Supports cross-platform functionality, working on Windows, macOS, and Linux.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+* Update extension logo image
 
-### 0.0.1
-
-Initial release of ...
-
-**Enjoy!**
+* VS Code minimum version downgraded to 1.84.2
