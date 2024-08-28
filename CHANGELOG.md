@@ -1,4 +1,7 @@
-# Change Log
+# Release Notes
+
+### 1.0.0
+* Added description
 
 ### 0.0.4
 * Fixed CHANGELOG.md

@@ -1,9 +1,9 @@
 {
   "name": "clean-up-react",
   "displayName": "Clean Up React",
-  "description": "",
+  "description": "Clean-Up React is a VS Code extension that automatically removes unnecessary files created when initializing a React project and cleans up the remaining files from unnecessary information. This allows you to start working on a project with a more organized structure.",
   "publisher": "khechoyan",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.84.2"
   },
@@ -11,7 +11,7 @@
     "name": "Khechoyan"
   },
   "categories": [
-    "Other"
+    "Other", "Formatters"
   ],
   "icon": "logo.png",
   "galleryBanner": {
