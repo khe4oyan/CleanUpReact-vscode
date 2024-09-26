@@ -1,6 +1,7 @@
 # Clean Up React.js
-  
-Clean-Up React is a VS Code extension that automatically removes unnecessary files created when initializing a React project and cleans up the remaining files from unnecessary information. This allows you to start working on a project with a more organized structure.
+  Clean-Up React is a VS Code extension that automatically removes unnecessary files created when initializing a React project and cleans up the remaining files from unnecessary information. This allows you to start working on a project with a more organized structure.
+
+### Extension link: [VSCode Marketplace - Clean Up React](https://marketplace.visualstudio.com/items?itemName=khechoyan.clean-up-react)
 
 ## Features
 
